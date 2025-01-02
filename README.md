@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fa77ie
-- 👀 I’m interested in yes.
+- 👀 I’m interested in no.
 - 🌱 I’m currently learning no.
-- 💞️ I’m looking to collaborate on yes.
+- 💞️ I’m looking to collaborate on no.
 - 📫 How to reach me no.
 
 <!---
